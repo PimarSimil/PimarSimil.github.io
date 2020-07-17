@@ -5,8 +5,6 @@ date:   2020-07-17 12:13:00 -0300
 categories: Commands Linux
 ---
 
-def print_hi(name)
-end
 
 # Commands
 
